@@ -1,0 +1,16 @@
+{
+  "name": "SparkFlip",
+  "short_name": "SparkFlip",
+  "description": "Judge ideas in a swipe. Play angel or devil.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08070b",
+  "theme_color": "#08070b",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
